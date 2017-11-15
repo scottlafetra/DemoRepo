@@ -8,4 +8,4 @@ You can either open up the Git GUI or you can be a *real* code guru and open up 
 
 Either way, you'll have to clone this repository (copy it). If you're using bash, you can do that by typing this command.
 
-'git clone https://github.com/scottlafetra/DemoRepo'
+`git clone https://github.com/scottlafetra/DemoRepo`
